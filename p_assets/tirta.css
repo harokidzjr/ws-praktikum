@@ -1,0 +1,1358 @@
+/*
+	@name tirta
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  overflow: hidden;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_tirta_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1654px;
+	height: 2339px;
+	overflow:hidden;
+}
+
+#_bg__tirta_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1654px;
+	height: 2339px;
+	background:rgba(255,255,255,255);
+}
+
+
+#purchase_order {
+	top: 95px;
+	left: 1250px;
+	width: 338px;
+	height: 60px;
+	font-family: Poppins;
+	font-size: 40px;
+	text-align: left;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 4px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#name {
+	top: 349px;
+	left: 77px;
+	width: 80px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#address {
+	top: 389px;
+	left: 77px;
+	width: 105px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#contacts {
+	top: 543px;
+	left: 77px;
+	width: 119px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#email_address {
+	top: 583px;
+	left: 77px;
+	width: 178px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#__ {
+	top: 349px;
+	left: 331px;
+	width: 10px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#___ruko_mutiara_taman_palem____blok_a_18_no__10_11__jl_kamal____raya_outer_ring_road_____cengkareng__jakarta_11730 {
+	top: 389px;
+	left: 331px;
+	width: 363px;
+	height: 154px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#___sardi_081243522453 {
+	top: 543px;
+	left: 331px;
+	width: 258px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#___sardi_batavianet_com {
+	top: 583px;
+	left: 331px;
+	width: 300px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#pt__iff_tbk {
+	top: 349px;
+	left: 344px;
+	width: 121px;
+	height: 38px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#rectangle_1567 {
+	top: 440px;
+	left: 902px;
+	width: 645px;
+	height: 184.21606445312px;
+	background:rgba(0,51,150,255);
+}
+
+
+#date_of_send {
+	top: 490px;
+	left: 935px;
+	width: 164px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___22_05_2019 {
+	top: 490px;
+	left: 1245px;
+	width: 151px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#delivery_to {
+	top: 530px;
+	left: 935px;
+	width: 137px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___wellen_pasar_minggu {
+	top: 530px;
+	left: 1245px;
+	width: 274px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#status {
+	top: 570px;
+	left: 935px;
+	width: 83px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___approved {
+	top: 570px;
+	left: 1245px;
+	width: 138px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#quotation_no_ {
+	top: 450px;
+	left: 935px;
+	width: 173px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#___1595_btv_quo_2019 {
+	top: 450px;
+	left: 1245px;
+	width: 256px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_1568 {
+	top: 440px;
+	left: 1567px;
+	width: 20px;
+	height: 184.21606445312px;
+	background:rgba(19,74,255,255);
+}
+
+
+#rectangle_1569 {
+	top: 440px;
+	left: 1547px;
+	width: 20px;
+	height: 184.21606445312px;
+	background:rgba(65,129,253,255);
+}
+
+
+#no {
+	top: 690px;
+	left: 78px;
+	width: 44px;
+	height: 43px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#description {
+	top: 690px;
+	left: 174px;
+	width: 175px;
+	height: 43px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#qty {
+	top: 690px;
+	left: 1075px;
+	width: 55px;
+	height: 43px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#unit_price__rp_ {
+	top: 690px;
+	left: 767px;
+	width: 207px;
+	height: 43px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#amount_idr {
+	top: 690px;
+	left: 1431px;
+	width: 169px;
+	height: 43px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#rectangle_1481 {
+	top: 748px;
+	left: 57px;
+	width: 1540px;
+	height: 120px;
+	background:rgba(227,227,227,255);
+}
+
+
+#_1 {
+	top: 769px;
+	left: 95px;
+	width: 13px;
+	height: 45px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#rectangle_1488 {
+	top: 868px;
+	left: 57px;
+	width: 1540px;
+	height: 120px;
+	background:rgba(248,248,248,255);
+}
+
+
+#_2 {
+	top: 884px;
+	left: 91px;
+	width: 21px;
+	height: 45px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#amazing_12 {
+	top: 769px;
+	left: 174px;
+	width: 156px;
+	height: 43px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#amazing_313 {
+	top: 884px;
+	left: 174px;
+	width: 173px;
+	height: 43px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#_20_000 {
+	top: 770px;
+	left: 797px;
+	width: 85px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#_40_000 {
+	top: 889px;
+	left: 795px;
+	width: 86px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#_1000_kg {
+	top: 770px;
+	left: 1059px;
+	width: 96px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#_200_kg {
+	top: 889px;
+	left: 1059px;
+	width: 88px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#_2_000_000 {
+	top: 770px;
+	left: 1448px;
+	width: 120px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#_4_000_000 {
+	top: 889px;
+	left: 1447px;
+	width: 121px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#line_74 {
+	top: 745px;
+	left: 58px;
+	width: 1540px;
+	height: 3px;
+}
+
+
+#rectangle_1570 {
+	top: 988px;
+	left: 57px;
+	width: 1540px;
+	height: 120px;
+	background:rgba(227,227,227,255);
+}
+
+
+#_3 {
+	top: 1009px;
+	left: 91px;
+	width: 21px;
+	height: 45px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#melon_2910 {
+	top: 1009px;
+	left: 174px;
+	width: 153px;
+	height: 43px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#_60_000 {
+	top: 1010px;
+	left: 795px;
+	width: 87px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#_500_kg {
+	top: 1010px;
+	left: 1059px;
+	width: 89px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#_6_000_000 {
+	top: 1010px;
+	left: 1446px;
+	width: 122px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#discount__20__ {
+	top: 1197px;
+	left: 1067px;
+	width: 186px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#_2_000_000_ek1 {
+	top: 1197px;
+	left: 1457px;
+	width: 109px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#ppn_10_ {
+	top: 1244px;
+	left: 1164px;
+	width: 89px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#_1_200_000 {
+	top: 1244px;
+	left: 1464px;
+	width: 102px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#pph {
+	top: 1291px;
+	left: 1208px;
+	width: 45px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#_0 {
+	top: 1291px;
+	left: 1549px;
+	width: 17px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#rectangle_1571 {
+	top: 1335px;
+	left: 1071px;
+	width: 511px;
+	height: 50px;
+	background:rgba(19,74,255,255);
+}
+
+
+#total_amount {
+	top: 1338px;
+	left: 1082px;
+	width: 171px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #ffffff;
+	text-shadow: 0 0 2px #ffffff;
+	color:#ffffff;
+}
+
+
+#_11_200_000 {
+	top: 1338px;
+	left: 1458px;
+	width: 108px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #ffffff;
+	text-shadow: 0 0 2px #ffffff;
+	color:#ffffff;
+}
+
+
+#rectangle_1572 {
+	top: 1431px;
+	left: 57px;
+	width: 1540px;
+	height: 50px;
+	background:rgba(19,74,255,255);
+}
+
+
+#approval {
+	top: 1434px;
+	left: 83px;
+	width: 115px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #ffffff;
+	text-shadow: 0 0 2px #ffffff;
+	color:#ffffff;
+}
+
+
+#seq_ {
+	top: 1487px;
+	left: 95px;
+	width: 54px;
+	height: 38px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#approver {
+	top: 1487px;
+	left: 208px;
+	width: 116px;
+	height: 38px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#decision {
+	top: 1487px;
+	left: 796px;
+	width: 108px;
+	height: 38px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#date {
+	top: 1487px;
+	left: 609px;
+	width: 62px;
+	height: 38px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#line_75 {
+	top: 1538px;
+	left: 58px;
+	width: 896px;
+	height: 3px;
+}
+
+
+#rectangle_1578 {
+	top: 1541px;
+	left: 57px;
+	width: 126px;
+	height: 60px;
+	background:rgba(248,248,248,255);
+}
+
+
+#rectangle_1579 {
+	top: 1541px;
+	left: 183px;
+	width: 350px;
+	height: 60px;
+	background:rgba(248,248,248,255);
+}
+
+
+#rectangle_1580 {
+	top: 1541px;
+	left: 533px;
+	width: 210px;
+	height: 60px;
+	background:rgba(248,248,248,255);
+}
+
+
+#rectangle_1581 {
+	top: 1541px;
+	left: 743px;
+	width: 210px;
+	height: 60px;
+	background:rgba(248,248,248,255);
+}
+
+
+#rectangle_1582 {
+	top: 1601px;
+	left: 57px;
+	width: 126px;
+	height: 60px;
+	background:rgba(227,227,227,255);
+}
+
+
+#rectangle_1583 {
+	top: 1601px;
+	left: 183px;
+	width: 350px;
+	height: 60px;
+	background:rgba(227,227,227,255);
+}
+
+
+#rectangle_1584 {
+	top: 1601px;
+	left: 533px;
+	width: 210px;
+	height: 60px;
+	background:rgba(227,227,227,255);
+}
+
+
+#rectangle_1585 {
+	top: 1601px;
+	left: 743px;
+	width: 210px;
+	height: 60px;
+	background:rgba(227,227,227,255);
+}
+
+
+#rectangle_1586 {
+	top: 1661px;
+	left: 57px;
+	width: 126px;
+	height: 60px;
+	background:rgba(248,248,248,255);
+}
+
+
+#rectangle_1587 {
+	top: 1661px;
+	left: 183px;
+	width: 350px;
+	height: 60px;
+	background:rgba(248,248,248,255);
+}
+
+
+#rectangle_1588 {
+	top: 1661px;
+	left: 533px;
+	width: 210px;
+	height: 60px;
+	background:rgba(248,248,248,255);
+}
+
+
+#rectangle_1589 {
+	top: 1661px;
+	left: 743px;
+	width: 210px;
+	height: 60px;
+	background:rgba(248,248,248,255);
+}
+
+
+#_1_ek1 {
+	top: 1549px;
+	left: 112px;
+	width: 12px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#_2_ek1 {
+	top: 1609px;
+	left: 110px;
+	width: 18px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#_3_ek1 {
+	top: 1669px;
+	left: 110px;
+	width: 18px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#dewi__ {
+	top: 1609px;
+	left: 204px;
+	width: 73px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#sherly {
+	top: 1669px;
+	left: 204px;
+	width: 81px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#adi_sukardi {
+	top: 1549px;
+	left: 204px;
+	width: 139px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#_21_05_2019 {
+	top: 1549px;
+	left: 576px;
+	width: 122px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#_22_05_2019 {
+	top: 1609px;
+	left: 573px;
+	width: 128px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#_22_05_2019_ek1 {
+	top: 1669px;
+	left: 573px;
+	width: 128px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#approved {
+	top: 1549px;
+	left: 786px;
+	width: 121px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#approved_ek1 {
+	top: 1609px;
+	left: 786px;
+	width: 121px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#approved_ek2 {
+	top: 1669px;
+	left: 786px;
+	width: 121px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#jakarta {
+	top: 1490px;
+	left: 1188px;
+	width: 91px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#approval_by_system__not_require_a_signature {
+	top: 1751px;
+	left: 54px;
+	width: 415px;
+	height: 31px;
+	font-family: Poppins;
+	font-size: 19px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#rectangle_1591 {
+	top: 1852px;
+	left: 57px;
+	width: 1540px;
+	height: 50px;
+	background:rgba(19,74,255,255);
+}
+
+
+#note___remark {
+	top: 1855px;
+	left: 87px;
+	width: 169px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #ffffff;
+	text-shadow: 0 0 2px #ffffff;
+	color:#ffffff;
+}
+
+
+#______setelah_diterima_harap__di_tandatangani_dan_di_fax_________kembali_ko_nomor_021_7996584_ {
+	opacity:0.83999997377396;
+	top: 1917px;
+	left: 87px;
+	width: 634px;
+	height: 77px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#______bila_terjadi_selisih_harga_atau_beda_harga_harap________konfirmasi_kembali {
+	opacity:0.83999997377396;
+	top: 2003px;
+	left: 87px;
+	width: 594px;
+	height: 77px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#po_tas_xi_2019_0029 {
+	top: 160px;
+	left: 1330px;
+	width: 260px;
+	height: 38px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#rectangle_1528 {
+	top: 1108px;
+	left: 57px;
+	width: 1540px;
+	height: 65px;
+	background:rgba(248,248,248,255);
+}
+
+
+#sub_total {
+	top: 1119px;
+	left: 1139px;
+	width: 118px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#_12_000_000 {
+	top: 1119px;
+	left: 1454px;
+	width: 116px;
+	height: 35px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 2px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#currency_in_idr_14_200 {
+	top: 1324px;
+	left: 53px;
+	width: 250px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+#group_217 {
+	top: 68px;
+	left: 404px;
+	width: 720px;
+	height: 163px;
+}
+
+#pt__tirta_aroma_sari {
+	top: -10px;
+	left: 0px;
+	width: 378px;
+	height: 60px;
+	font-family: Poppins;
+	font-size: 40px;
+	text-align: left;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: #2c2d33;
+	text-shadow: 0 0 4px #2c2d33;
+	color:#2c2d33;
+}
+
+
+#belmont_residence_ruko_soho_no__3a_jl__lapangan_bola_meruya_ilir__meruya_utara___jakarta_barat_telp__021_58900880_ {
+	top: 60px;
+	left: 0px;
+	width: 725px;
+	height: 102px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#tirtaaroma {
+	top: 53px;
+	left: 76px;
+	width: 228px;
+	height: 192px;
+}
+
+
+#unit_price__usd_ {
+	top: 690px;
+	left: 456px;
+	width: 229px;
+	height: 43px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#__20_0 {
+	top: 770px;
+	left: 486px;
+	width: 69px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#__40_0 {
+	top: 889px;
+	left: 484px;
+	width: 70px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#__60_0 {
+	top: 1010px;
+	left: 484px;
+	width: 71px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#pkg {
+	top: 690px;
+	left: 1262px;
+	width: 57px;
+	height: 43px;
+	font-family: Poppins;
+	font-size: 28px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #134aff;
+	text-shadow: 0 0 2px #134aff;
+	color:#134aff;
+}
+
+
+#drum_200_kg {
+	top: 770px;
+	left: 1251px;
+	width: 88px;
+	height: 78px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#drum_20_kg {
+	top: 889px;
+	left: 1251px;
+	width: 73px;
+	height: 78px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#drum_500_kg {
+	top: 1010px;
+	left: 1251px;
+	width: 89px;
+	height: 78px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#2c2d33;
+}
+
+
+#_20__januari_2019 {
+	top: 1532px;
+	left: 1188px;
+	width: 183px;
+	height: 37px;
+	font-family: Poppins;
+	font-size: 23px;
+	text-align: right;
+	color:#2c2d33;
+}
+
+
+#image_1 {
+	top: 1596px;
+	left: 1192px;
+	width: 172px;
+	height: 160px;
+}
+
+
+
+/* Add your custom CSS here */
