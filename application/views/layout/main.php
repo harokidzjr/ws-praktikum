@@ -87,7 +87,7 @@
             </div>
             <!-- END SIDEBAR MENU HEADER-->
             <!-- START SIDEBAR MENU -->
-            <?php $this->load->view('layout2/sidemenu'); ?>
+            <?php $this->load->view('layout/sidemenu'); ?>
             <!-- END SIDEBAR MENU -->
         </nav>
         <!-- END SIDEBAR -->

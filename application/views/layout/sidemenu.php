@@ -7,11 +7,7 @@
             </a>
             <span class="bg-success icon-thumbnail"><i class="pg-home"></i></span>
         </li>
-        <?php $this->load->view('layout2/usermenu'); ?>
-        <?php $this->load->view('layout2/stockmenu'); ?>
-        <?php $this->load->view('layout2/produkmenu'); ?>
-        <?php $this->load->view('layout2/salesmenu'); ?>
-        <?php $this->load->view('layout2/permissionmenu'); ?>
+        <?php $this->load->view('layout/wsmenu'); ?>
     </ul>
     <div class="clearfix"></div>
 </div>
